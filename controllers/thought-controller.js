@@ -1,4 +1,4 @@
-const { User, Thought } = require('../models');
+const { Thought, User } = require('../models');
 
 const thoughtController = {
   // get all pizzas
